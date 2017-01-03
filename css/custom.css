@@ -1,17 +1,17 @@
-/**{
-  border: red solid 1px;
-}*/
 .container {
  	font-family: 'Lato', sans-serif;
  	color: #2d3c49;
 }
+
 .logo{
   width: 100px;
   margin-top: 15px;
 }
+
 .header-name{
   text-align: right;
 }
+
 header h1, header h4 {
 	font-weight: 300;
 }
@@ -27,6 +27,7 @@ header h4 {
 hr {
   border-top: 3px solid #7d97ad;
 }
+
 h2 {
 	color: #7d97ad;
 }
