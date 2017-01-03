@@ -1,4 +1,4 @@
-### Portfolio Site
+# Portfolio Site
 
 This portfolio site is developed for udacity full stack developer nanodegree
 program.
